@@ -4,9 +4,9 @@ Thursdays, 1:00pm – 3:00pm
 Richard Dunks and Jeff Ferzoco, Instructors  
 richard@datapolitan.com | @datapolitan
 jeff@linepointpath.com | @zingbot
-http://ebrelsford.github.io/talks/2015/SAVI/702/
 
-Course Overview 
+
+***Course Overview***  
 The 21st century digital city produces an ever-increasing volume of information about the movement of people and goods through the urban space. But data alone doesn't tell the story of the city. This story requires an understanding of the city as an interlocking collection of narratives. As future planners, architects, urban designers, public health professionals, public administrators, or even simply engaged citizens, engaging the digital city requires deeply understanding the story in the data, and seeking the signal in the noise of everyday life – contributing to a more livable and equitable urban space for all. 
 This class will provide the necessary skills to acquire and analyze the increasing amount of data available through open data portals and other civic engagement tools, as well as the understanding of how to analyze and visualize the data in clear, concise, and meaningful ways. You will learn how to engage in a user-centered design process that makes data consumers co-collaborators in the creation of civic technology solutions and information visualizations.
 
