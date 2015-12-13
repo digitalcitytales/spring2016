@@ -93,7 +93,21 @@ Students should bring to class the computer they intend on using to do work in t
 ####Class 1 - 21 January 2016: Storytelling with data
 ####Class 2 - 28 January 2016: Problem formulation/Defining your audience
 ####Class 3 - 4 February 2016: Introduction to Open Data
+Topics:
+
++ What is open data?
++ Uses, concerns, and opportunities with open data
+
+Readings:
++
+
+Assignments:
++ 
+
 ####Class 4 - 11 February 2016: Overview of Open Data Portals
++ Demonstration of [311 downloader](http://chriswhong.github.io/311plus/) for CartoDB
++ Demonstration of [PLUTO Plus downloader](http://chriswhong.github.io/plutoplus/) for CartoDB
+
 ####Class 5 - 18 February 2016: Data Collection Methods
 <!--#####Topics
 + Principles of data collection
