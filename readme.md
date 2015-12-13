@@ -9,6 +9,8 @@ Richard Dunks and Jeff Ferzoco, Instructors
 [richard@datapolitan.com](mailto:richard@datapolitan.com) | [@datapolitan](https://twitter.com/Datapolitan)  
 [jeff@linepointpath.com](mailto:jeff@linepointpath.com) | [@zingbot](https://twitter.com/zingbot)
 
+Current syllabus available at: [https://github.com/digitalcitytales/spring2016](https://github.com/digitalcitytales/spring2016)
+
 ---
 ###Navigation
 + [Course Overview](#course-overview)
@@ -73,7 +75,7 @@ Final Project | 50%
 ######[back to top](#top)
 
 <a id='participation'></a>
-###Participation 
+###Class Participation 
 We expect you to be fully engaged while you’re in class. This means asking questions when necessary, engaging in class discussions, participating in class exercises, and completing all assigned work. Learning will occur in this class only when you actively use the tools, techniques, and skills described in the lectures. We will provide you ample time and resources to accomplish the goals of this course and expect you to take full advantage of what’s offered.
 
 ######[back to top](#top)
