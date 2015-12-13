@@ -100,15 +100,30 @@ Students should bring to class the computer they intend on using to do work in t
 ##Course Outline
 ####Topics will be covered that day in class. Reading Assignments are to be read before class in preparation of the lecture and exercises. Assignments are due before the start of the next class and build on the information presented in class.
 
+####Preclass:
++ Read New York Magazine interactive article [One Block in Brooklyn](http://nymag.com/oneblock/)
++ Fill out [skills survey](http://goo.gl/forms/cN2bubDgDd)
++ Find [3-5 census blocks](http://bit.ly/1lYXj0O)
+
 ####Class 1 - 21 January 2016: One Block in Brooklyn: Storytelling 
 Overview of the project, with potential guest speakers.  
-**For Next class:** 
-3-5 blocks prepared to talk about, each with a google satellite view and three talking points about the choices for two minutes (template provided)
+**Assignment For Next Class:** 
+Select 3-5 blocks in NYC and be prepared to talk about why you chose it, with a google satellite view of the block and about the choices for two minutes (template provided)
+
 ####Class 2 - 28 January 2016: Pick a block: Problem formulation/Defining your audience.
-Discuss 3-5 blocks per person withing the bounds of NYC., prepared to talk about the choices. This class is where we will pair up of not pair up.
-**For Next Class: **
+Present 3-5 blocks including the discussion of why you chose it. 
+There will be time to allow for group formation.    
+**Assignment For Next Class:**
+As a group do initial research on a 5 blocks around NYC. What data is available, what are the initial stories you want to tell about it? Submit a writeup of what you've found for your blocks
+
 ####Class 3 - 4 February 2016: Introduction to Open Data: Where to start
-####Class 4 - 11 February 2016: Overview of Open Data Portals
+Open data lecture    
+**Assignment For Next Class:**
+If you haven't already, explore sources of open data for your blocks. Identify interesting aspects to your block that you want to explore
+
+####Class 4 - 11 February 2016: Overview of Open Data Sources
+Possible Guest Lecture 
+
 ####Class 5 - 18 February 2016: Data Collection Methods
 <!--#####Topics
 + Principles of data collection
@@ -119,6 +134,7 @@ Discuss 3-5 blocks per person withing the bounds of NYC., prepared to talk about
 
 -->
 ####Class 6 - 25 February 2016: User Research Methods/User-Centered Design (UCD)
+Final block picked here
 ####Class 7 - 3 March 2016: Project Lab Session
 ####Class 8 - 10 March 2016: Preliminary Project Presentations
 ###SPRING BREAK (Monday, March 14 - Friday, March 18)
