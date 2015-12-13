@@ -63,6 +63,12 @@ You will be required to have free accounts with the following services:
 ###Course Readings 
 The required readings for this course consist of book chapters, journal articles, and short blog posts. The intention is to help give you a foundation in the critical skills ahead of class lectures. All required readings are available online or will be made available through the class portal. Recommended readings are suggestions if you wish to study further the topics covered in class. The books listed in the Suggested Readings section below offer even more depth and an extended discussion of the material we cover in class.
 
+Required: 
+  
+ + [One Block in Brooklyn] (http://nymag.com/oneblock)
+ + TBD Whitney Museum piece 
+ + 
+
 ######[back to top](#top)
 
 <a id='grading'></a>
@@ -90,9 +96,14 @@ Students should bring to class the computer they intend on using to do work in t
 ##Course Outline
 ####Topics will be covered that day in class. Reading Assignments are to be read before class in preparation of the lecture and exercises. Assignments are due before the start of the next class and build on the information presented in class.
 
-####Class 1 - 21 January 2016: Storytelling with data
-####Class 2 - 28 January 2016: Problem formulation/Defining your audience
-####Class 3 - 4 February 2016: Introduction to Open Data
+####Class 1 - 21 January 2016: One Block in Brooklyn: Storytelling 
+Overview of the project, with potential guest speakers.  
+**For Next class:** 
+3-5 blocks prepared to talk about, each with a google satellite view and three talking points about the choices for two minutes (template provided)
+####Class 2 - 28 January 2016: Pick a block: Problem formulation/Defining your audience.
+Discuss 3-5 blocks per person withing the bounds of NYC., prepared to talk about the choices. This class is where we will pair up of not pair up.
+**For Next Class: **
+####Class 3 - 4 February 2016: Introduction to Open Data: Where to start
 ####Class 4 - 11 February 2016: Overview of Open Data Portals
 ####Class 5 - 18 February 2016: Data Collection Methods
 <!--#####Topics
