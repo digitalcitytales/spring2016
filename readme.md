@@ -5,8 +5,7 @@ Planning A6204
 Spring 2016   
 202 Fayerweather    
 Thursdays, 1:00pm – 3:00pm  
-Richard Dunks and Jeff Ferzoco, Instructors  
-[richard@datapolitan.com](mailto:richard@datapolitan.com) | [@datapolitan](https://twitter.com/Datapolitan)  
+Jeff Ferzoco, Instructor  
 [jeff@linepointpath.com](mailto:jeff@linepointpath.com) | [@zingbot](https://twitter.com/zingbot)
 
 Current syllabus available at: [https://github.com/digitalcitytales/spring2016](https://github.com/digitalcitytales/spring2016)
@@ -67,11 +66,14 @@ Required:
   
  + [One Block in Brooklyn] (http://nymag.com/oneblock)
  + TBD Whitney Museum piece 
+ + 'Seen From a Window', Rhythmanalysis; Henri Lefebvre
 
 ######[back to top](#top)
 
 ###Resources: 
 + [311 Downloader](http://chriswhong.github.io/311plus/#)
++ [Urban Scratchoff] (http://chriswhong.github.io/urbanscratchoff/)
++ 
 
 ######[back to top](#top)
 
@@ -119,7 +121,7 @@ As a group do initial research on a 5 blocks around NYC. What data is available,
 ####Class 3 - 4 February 2016: Introduction to Open Data: Where to start
 Open data lecture    
 **Assignment For Next Class:**
-If you haven't already, explore sources of open data for your blocks. Identify interesting aspects to your block that you want to explore
+If you haven't already, explore sources of open data for your blocks. Identify interesting aspects to your block that you want to explore.
 
 ####Class 4 - 11 February 2016: Overview of Open Data Sources
 Possible Guest Lecture 
